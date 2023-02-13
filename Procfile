@@ -1,0 +1,1 @@
+work: node init.js
